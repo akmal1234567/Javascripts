@@ -8,7 +8,7 @@
 6. git remote
 7. git push
 
-#menambahkan file
+# menambahkan file
 1. touch index.html
 2. git add . atau git add index.html
 3. git commit
